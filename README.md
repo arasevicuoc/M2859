@@ -4,5 +4,5 @@ Repositorio para la asignatura Visualización de datos del Máster en Ciencia de
 
 ## Estructura del repositorio
 
-1. /M5/: contiene las tres visualizaciones de datos solicitadas y el .ipynb con el que han sido generadas
+1. /A5/: contiene las tres visualizaciones de datos solicitadas y el .ipynb con el que han sido generadas
 
