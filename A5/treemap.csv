@@ -1,0 +1,77 @@
+﻿region;food;total adjusted supply
+S Asia;Startch Veg;85.97
+S Asia;Whole Grains;267.94
+S Asia;Vegetables;114.60
+S Asia;Fruit;121.89
+S Asia;milk & Dairy;125.76
+S Asia;red meat;4.79
+S Asia;Poultry;4.48
+S Asia;Fish & Seafood;9.96
+S Asia;eggs;5.28
+S Asia;Legumes;118.88
+S Asia;nuts;0.73
+E Asia & Oceania;Startch Veg;265.96
+E Asia & Oceania;Whole Grains;505.60
+E Asia & Oceania;Vegetables;675.36
+E Asia & Oceania;Fruit;311.93
+E Asia & Oceania;milk & Dairy;26.09
+E Asia & Oceania;read meat;92.75
+E Asia & Oceania;Poultry;39.06
+E Asia & Oceania;Fish & Seafood;97.12
+E Asia & Oceania;eggs;45.88
+E Asia & Oceania;Legumes;131.35
+E Asia & Oceania;nuts;2.20
+SSAfrica;Startch Veg;201.25
+SSAfrica;Whole Grains;95.54
+SSAfrica;Vegetables;34.79
+SSAfrica;Fruit;63.72
+SSAfrica;milk & Dairy;32.62
+SSAfrica;read meat;6.07
+SSAfrica;Poultry;4.29
+SSAfrica;Fish & Seafood;6.72
+SSAfrica;eggs;1.35
+SSAfrica;Legumes;57.76
+SSAfrica;nuts;0.16
+EMEA;Startch Veg;29.02
+EMEA;Whole Grains;88.99
+EMEA;Vegetables;57.31
+EMEA;Fruit;63.11
+EMEA;milk & Dairy;43.67
+EMEA;read meat;4.67
+EMEA;Poultry;8.66
+EMEA;Fish & Seafood;5.31
+EMEA;eggs;2.54
+EMEA;Legumes;16.64
+Europe;Startch Veg;152.05
+Europe;Whole Grains;180.75
+Europe;Vegetables;163.13
+Europe;Fruit;176.68
+Europe;milk & Dairy;347.90
+Europe;read meat;54.15
+Europe;Poultry;27.94
+Europe;Fish & Seafood;19.82
+Europe;eggs;14.32
+Europe;Legumes;31.52
+Europe;nuts;1.12
+L Am;Startch Veg;58.17
+L Am;Whole Grains;97.54
+L Am;Vegetables;40.05
+L Am;Fruit;99.50
+L Am;milk & Dairy;125.13
+L Am;read meat;25.14
+L Am;Poultry;25.85
+L Am;Fish & Seafood;7.32
+L Am;eggs;7.59
+L Am;Legumes;36.48
+L Am;nuts;0.17
+N Am;Startch Veg;42.27
+N Am;Whole Grains;43.79
+N Am;Vegetables;44.75
+N Am;Fruit;46.17
+N Am;milk & Dairy;139.84
+N Am;read meat;24.43
+N Am;Poultry;23.71
+N Am;Fish & Seafood;8.75
+N Am;eggs;5.95
+N Am;Legumes;18.77
+N Am;nuts;0.47
